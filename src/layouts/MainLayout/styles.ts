@@ -3,9 +3,14 @@ import { makeStyles, Theme } from '@material-ui/core/styles';
 const useStyles = makeStyles((theme: Theme) => ({
   root: {
     display: 'flex',
+    height: '100%',
+    overflow: 'hidden',
+    width: '100%',
   },
   content: {
-    flexGrow: 1,
+    flex: '1 1 auto',
+    height: '100%',
+    overflow: 'auto',
     padding: theme.spacing(3),
     transition: theme.transitions.create('margin', {
       easing: theme.transitions.easing.sharp,
