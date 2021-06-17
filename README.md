@@ -4,7 +4,7 @@ A simple react boilerplate apps built with React Typescript, redux and Material 
  
 ## Working application
 
-Check out the live application -> https://xenodochial-tereshkova-b7625c.netlify.app/
+Check out the live application -> https://react-boilerplate-material.vercel.app/
 
 ![React Boilplate Demo](public/assets/images/lading-page1.png)
 
